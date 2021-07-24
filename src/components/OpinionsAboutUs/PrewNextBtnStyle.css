@@ -1,0 +1,20 @@
+.carousel__back-button{
+    position: absolute;
+    width: 16px;
+    height: 26px;
+    outline: none;
+    top: 10%;
+    left: 0;
+    border: none;
+    background-color: transparent;
+}
+.carousel__next-button{
+    position: absolute;
+    width: 16px;
+    height: 26px;
+    outline: none;
+    top: 10%;
+    right: 0;
+    border: none;
+    background-color: transparent;
+}
