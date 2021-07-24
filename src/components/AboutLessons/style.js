@@ -20,7 +20,7 @@ flex-flow: ${({isBilimUlashing}) => isBilimUlashing && 'row-reverse'};
 export const UndovIcon = styled(Undov)`
 transform: scale(1);
 position: absolute;
-right: ${({isBilimUlashing}) => isBilimUlashing ? '-170px' : '-150px'};
+right: ${({isBilimUlashing}) => isBilimUlashing ? '-160px' : '-150px'};
 /* right: -300px; */
 bottom: -30px;
 `
